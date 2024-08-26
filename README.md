@@ -1,6 +1,4 @@
-# Functional kinematic and kinetic requirements of the upper limb
-during activities of daily living: a recommendation on necessary joint
-capabilities for prosthetic arms
+# Functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms
 ## Citation
 Please cite the relevant article: Functional kinematic and kinetic requirements of the upper limb
 during activities of daily living: a recommendation on necessary joint
